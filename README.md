@@ -1,1 +1,1 @@
-# null
+# /dev/null
